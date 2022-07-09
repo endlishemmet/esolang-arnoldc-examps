@@ -1,0 +1,15 @@
+IT'S SHOWTIME
+    HEY CHRISTMAS TREE num
+    YOU SET US UP 0
+    TALK TO THE HAND "number before assignemet:"
+    TALK TO THE HAND num
+    GET TO THE CHOPPER num
+    HERE IS MY INVITATION 1
+    ENOUGH TALK
+    TALK TO THE HAND "number after assignemet:"
+    TALK TO THE HAND num
+
+    "GET TO THE CHOPPER is variable assignemet."
+    "HERE IS MY INVITATION is variable value assign."
+    "ENOUGH TALK is variable end assignemet."
+YOU HAVE BEEN TERMINATED

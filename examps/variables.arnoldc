@@ -1,0 +1,8 @@
+IT'S SHOWTIME
+    "We declare variable with command [HEY CHRISTMAS TREE] and the second value is variable name"
+    "After this command we'll write that command [YOU SET US UP] -> setting variable value for first variable."
+    "And variable value must be integer, bool type!"
+    HEY CHRISTMAS TREE num
+    YOU SET US UP 0
+    TALK TO THE HAND num 
+YOU HAVE BEEN TERMINATED

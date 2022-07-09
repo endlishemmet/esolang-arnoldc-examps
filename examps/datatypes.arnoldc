@@ -1,0 +1,11 @@
+IT'S SHOWTIME
+    "boolean type: true | false"
+    "@NO PROBLEMO == true"
+    "@I LIED      == false"
+    HEY CHRISTMAS TREE true
+    YOU SET US UP @NO PROBLEMO 
+    HEY CHRISTMAS TREE false
+    YOU SET US UP @I LIED
+    TALK TO THE HAND true
+    TALK TO THE HAND false
+YOU HAVE BEEN TERMINATED
